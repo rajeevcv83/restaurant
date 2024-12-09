@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-repo/spring-boot-app.git'
+                git 'https://github.com/rajeevcv83/restaurant.git'
             }
         }
         stage('Build') {
