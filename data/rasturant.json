@@ -1,0 +1,37 @@
+[
+    {
+    "name":"Rang de Basanti",
+    "city":"Delhi",
+    "pin":"100601",
+    "address":"abcdRHDT complex",
+    "phoneNo":"984254511"
+    },
+    {
+    "name":"Rang de Basanti",
+    "city":"HYD",
+    "pin":"400601",
+    "address":"abcdRHDT complex N",
+    "phoneNo":"984254512"
+    },
+    {
+    "name":"Hyatt",
+    "city":"HYD",
+    "pin":"400601",
+    "address":"abcdRHDT complex",
+    "phoneNo":"984254514"
+    },
+    {
+    "name":"Barbeque Nation",
+    "city":"HYD",
+    "pin":"400601",
+    "address":"abcdRHDT complex",
+    "phoneNo":"984254515"
+    },
+    {
+    "name":"Grill and Fresh",
+    "city":"HYD",
+    "pin":"400601",
+    "address":"abcdRHDT complex",
+    "phoneNo":"984254516"
+    }
+]
