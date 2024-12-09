@@ -24,7 +24,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 // Add your deployment steps here, e.g., using SCP, SSH, Docker, etc.
-                sh 'scp build/libs/*.jar user@server:/path/to/deploy'
+                sh 'scp build/libs/*.jar user@server:E:/test'
             }
         }
     }
